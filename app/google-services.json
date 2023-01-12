@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "364674841971",
+    "project_id": "gamesstore-b9651",
+    "storage_bucket": "gamesstore-b9651.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364674841971:android:9168e72b9a019ab14a9906",
+        "android_client_info": {
+          "package_name": "com.gec.gamestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364674841971-sr1jtsoqo5tit2cdra9j024qla8l6648.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gec.gamestore",
+            "certificate_hash": "c1a9641420824c819c74175839d1210e3674fae4"
+          }
+        },
+        {
+          "client_id": "364674841971-5lk27gkvlefntnv55pbmj27muqfmkaj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8LGSDApyjqAi8OINV2Mt1SZ2TsJ993xU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364674841971-5lk27gkvlefntnv55pbmj27muqfmkaj4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
